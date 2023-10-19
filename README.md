@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**eoderrete/eoderrete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Olá, sejam bem vindos ao meu perfil
 
 Here are some ideas to get you started:
 
